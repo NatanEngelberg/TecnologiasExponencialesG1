@@ -33,3 +33,6 @@ Rastro que dejamos al utilizar el *internet*/dispositivos digitales
 1. En el drive Perfil Digital, investigar y averiguar sobre servicios, sitios productos que aporten a nuestro Perfil Digital, e indicar de que sitios o de que forma podes solicitar estos datos. (Ej. https://takeout.google.com)
 
 2. Empiecen a formar su Perfil Digital. Recolenten y administren los datos que descargaron de estos sitios.
+
+3. Comenzar a armar su Perfil Digital (Word/PowerPoint/Figma). Contabilizando los datos a mano, y a medida que avancen las clases, automatizar el conteo con Python.
+
